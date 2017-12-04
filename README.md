@@ -1,4 +1,5 @@
 # devops-aula2
 Wagner Moura
-will smith
+Gloria Maria  
 Lazaro ramos
+Will Smith
